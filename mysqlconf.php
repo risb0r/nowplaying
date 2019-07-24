@@ -3,7 +3,7 @@
 //put your MySQL Information in the supplied spots
 
 $db = "choonstats" ;
-$pass = "tig16er" ;
+$pass = "xxxxxxxx" ;
 $dbloc = "localhost" ; 
 $table = "winamp" ;
 $user = "root" ;
